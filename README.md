@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 ### 이력
 광운대학교 IDEA Lab 개발인턴 (22.11 ~ 현재)
 
-항해 플러스 프론트엔드 1기 수료(03.09 ~ 05.18)
+항해 플러스 프론트엔드 1기 수료(24.03.09 ~ 24.05.18)
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
 </a>
+
+카카오테크 부트캠프 (24.07.01 ~ 24.08.24)
+
+스파르타 인턴즈 2기 (24.08.26 ~ 현재)
+
 
 ### Tech Spec
 <div style={{display: 'flex'}}>
