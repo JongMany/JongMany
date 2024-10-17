@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 <div style={{display:'flex'}}>
   <div>
+    
   [![JongMany's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongMany)](https://github.com/JongMany/github-readme-stats)
  </div>
+  
   <div>
+    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JongMany&layout=compact&theme=dracula)
   </div>
 </div>
