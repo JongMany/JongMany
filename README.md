@@ -1,7 +1,7 @@
 ### Hi there
 
 <!--
-**JongMany/JongMany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JongMany/JongMany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
