@@ -66,8 +66,4 @@
   </a>
 </div>
 
----
 
-<p align="center">
-  <sub>✨ Designed with a Toss-inspired minimal style ✨</sub>
-</p>
