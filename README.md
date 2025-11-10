@@ -1,72 +1,73 @@
-### Hi there 
+<h1 align="center">👋 Hi, I'm JongMany</h1>
 
-<!--
-**JongMany/JongMany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+<p align="center">
+  <em>Frontend Developer who values clarity, simplicity, and a good UX.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div style={{display:'flex'}}>
-  <div>
-    
-  [![JongMany's GitHub stats](https://github-readme-stats.vercel.app/api?username=JongMany)](https://github.com/JongMany/github-readme-stats)
- </div>
-  
+### 💼 Works
+- **Toss Securities** _(Joining: 2025.12.08)_  
+- **Adena Software** _(2024.10.28 ~ 2025.11.14)_  
+- **Sparta Interns 2nd** _(2024.08.26 ~ 2024.10.22)_  
+- **IDEA Lab, Kwangwoon Univ.** _(2022.11 ~ 2024.08)_
 
+---
 
-### Works
+### 🎓 Education
+- **Kwangwoon Univ.** — Information Convergence (2018.03 ~ 2025.02)
+- **항해 플러스 프론트엔드 1기 수료** (2024.03.09 ~ 2024.05.18)  
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" width="100"/>
+  </a>
+- **KakaoTech Bootcamp** (2024.07.01 ~ 2024.08.24)
 
-아데나 소프트웨어 (24.10.28 ~ 25.11.14)
-스파르타 인턴즈 2기 (24.08.26 ~ 24.10.22)
-광운대학교 IDEA Lab 개발인턴 (22.11 ~ 24.08)
+---
 
-### Education
-광운대학교 정보융합학부 (18.03 ~ 25.02)
+### 🧠 Tech Stack
 
-항해 플러스 프론트엔드 1기 수료(24.03.09 ~ 24.05.18)
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
-</a>
+#### 🗣️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=20232a)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-카카오테크 부트캠프 (24.07.01 ~ 24.08.24)
+#### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
+#### 🛠️ Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### Tech Spec
+---
 
-#### Language
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232a)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+### 📊 GitHub Stats
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=JongMany&show_icons=true&theme=transparent&hide_title=true&hide=prs,issues&hide_border=true" />
+</div>
 
-#### Framework & Library
+---
 
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=purple">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+### 🧩 Algorithm
+<div align="center">
+  <a href="https://solved.ac/blackberry1114">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blackberry1114" />
+  </a>
+</div>
 
+---
 
-#### DevOps & Tools
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-
-### BackJoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackberry1114)](https://solved.ac/백준아이디/)
-
+<p align="center">
+  <sub>✨ Designed with a Toss-inspired minimal style ✨</sub>
+</p>
