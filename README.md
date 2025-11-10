@@ -26,6 +26,34 @@
 
 ### 🧠 Tech Stack
 
+<h1 align="center">👋 Hi, I'm JongMany</h1>
+
+<p align="center">
+  <em>Frontend Developer who values clarity, simplicity, and a good UX.</em>
+</p>
+
+---
+
+### 💼 Works
+- **Toss Securities** _(Joining: 2025.12.08)_  
+- **Adena Software** _(2024.10.28 ~ 2025.11.14)_  
+- **Sparta Interns 2nd** _(2024.08.26 ~ 2024.10.22)_  
+- **IDEA Lab, Kwangwoon Univ.** _(2022.11 ~ 2024.08)_
+
+---
+
+### 🎓 Education
+- **Kwangwoon Univ.** — Information Convergence (2018.03 ~ 2025.02)
+- **항해 플러스 프론트엔드 1기 수료** (2024.03.09 ~ 2024.05.18)  
+  <a href="https://hhpluscertificateofcompletion.oopy.io/">
+    <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" width="100"/>
+  </a>
+- **KakaoTech Bootcamp** (2024.07.01 ~ 2024.08.24)
+
+---
+
+### 🧠 Tech Stack
+
 #### 🗣️ Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=20232a)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -49,6 +77,24 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=JongMany&show_icons=true&theme=transparent&hide_title=true&hide=prs,issues&hide_border=true" />
+</div>
+
+---
+
+### 🧩 Algorithm
+<div align="center">
+  <a href="https://solved.ac/blackberry1114">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=blackberry1114" />
+  </a>
+</div>
+
+
 
 ---
 
