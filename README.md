@@ -10,9 +10,9 @@
 
 ## 💼 Work Experience
 
-### **Toss Securities** — Frontend Developer (Chart)
+<!--### **Toss Securities** — Frontend Developer (Chart)
 📅 **Joining:** 2025.12.08
-
+-->
 ### **Adena Software** — Frontend Developer
 💬 **Projects:** 
 - AI Character Chatting Platform
