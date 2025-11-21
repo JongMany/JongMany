@@ -1,6 +1,6 @@
 ## JongMin Lee
 
-Seoul, Republic of Korea · [Smoljames.com](https://www.smoljames.com) · [LinkedIn](https://www.linkedin.com/in/%EC%A2%85%EB%AF%BC-%EC%9D%B4-557572284/)
+Seoul, Republic of Korea · [LinkedIn](https://www.linkedin.com/in/%EC%A2%85%EB%AF%BC-%EC%9D%B4-557572284/)
 
 Frontend Developer who values clarity, simplicity, and a good UX.
 
