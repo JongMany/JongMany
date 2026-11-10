@@ -8,7 +8,7 @@ Currently I enjoy working with **React/Next.js TailwindCSS NestJS**.
 
 ## Professional Experience
 
-### Toss Securities | Frontend Developer(Chart)
+### Toss Securities | Frontend Developer
 ***Korea | Dec 2025 - Present***
 
 
