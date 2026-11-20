@@ -10,7 +10,7 @@
 
 - TradingView 기반 금융 차트 및 거래 보조 기능 개발
 
-### 아데나소프트 (AdenaSoft) · 코인니스 (Coinness)
+### 아데나 소프트웨어
 **Frontend Developer**  
 2025.07 – 2025.11
 
