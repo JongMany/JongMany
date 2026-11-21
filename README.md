@@ -1,6 +1,6 @@
 # 이종민 | Frontend Developer
 
-서울, 대한민국 · [LinkedIn](https://www.linkedin.com/in/%EC%A2%85%EB%AF%BC-%EC%9D%B4-557572284/) · [GitHub](https://github.com/JongMany) · [Blog](https://homebody-coder.tistory.com/)
+서울, 대한민국 · [LinkedIn](https://www.linkedin.com/in/%EC%A2%85%EB%AF%BC-%EC%9D%B4-557572284/) · [GitHub](https://github.com/JongMany) · [Blog](https://homebody-coder.dev/)
 
 ## 경력
 
