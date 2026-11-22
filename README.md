@@ -8,6 +8,7 @@
 **Frontend Developer**  
 2025.12 – 현재
 
+- 토스증권의 WTS/MTS 내 차트 관련 기능 개발
 - TradingView 기반 금융 차트 및 거래 보조 기능 개발
 
 ### 아데나 소프트웨어
